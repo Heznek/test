@@ -9,4 +9,4 @@ test repo for showing git skill
 `end to my idan's & oren's edit`
 
 ## Merge Tests:
-- edit at branch 1
+- edit at branch master
