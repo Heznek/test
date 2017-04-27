@@ -11,4 +11,5 @@ test repo for showing git skill
 ## Merge Tests:
 
 - edit at branch idan
+- edit at branch idan2
 - edit at branch ms2
