@@ -7,3 +7,6 @@ test repo for showing git skill
 + this edit is better than Idan's.
 
 `end to my idan's & oren's edit`
+
+## Merge Tests:
+- edit at branch 1
